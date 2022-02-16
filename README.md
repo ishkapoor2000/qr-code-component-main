@@ -1,6 +1,6 @@
 # Frontend Mentor - QR code component
 
-![Design preview for the QR code component coding challenge](./design/desktop-preview.png)
+![Design preview for the QR code component coding challenge](./design/desktop-preview.jpg)
 
 ## Welcome! 👋
 
@@ -112,7 +112,7 @@ Users should be able to:
 
 ### Screenshot
 
-![Desktop View Preview](./images/Desktop-Preview.jpeg)
+![Desktop View Preview](./images/Desktop-Preview.png)
 
 ## My process
 
