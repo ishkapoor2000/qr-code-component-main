@@ -112,7 +112,7 @@ Users should be able to:
 
 ### Screenshot
 
-![Desktop View Preview](./images/Desktop-Preview.jpeg)
+![Desktop View Preview](./images/Desktop-Preview.png)
 
 ## My process
 
